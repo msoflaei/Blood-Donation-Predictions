@@ -5,7 +5,7 @@ This project aims to predict whether or not a donor will give blood the next tim
 * Numpy
 * Pandas
 * Matplotlib
-* seaborn
+* Seaborn
 * Scikit Learn
 
 
